@@ -13,4 +13,13 @@ Berikut ini adalah langkah-langkah yang dapat diikuti.
 3. Jalankan perintah `sudo apt install git`
 
 
+## 2. Paket Git belum terdaftar di repository APT
+Hal ini dapat dilakukan dengan menggunakan PPA. Berikut ini langkah-langkahnya.
+1. Buka terminal emulator
+2. Pastikan user yang digunakan memiliki akses **sudo**
+3. Jalankan perintah berikut `sudo apt install software-properties-common python-software-properties`
+4. Jalankan perintah berikut `sudo add-apt-repository ppa:git-core/ppa`
+5. Lakukan update dengan menjalankan perintah berikut `sudo apt update`
+6. Sampai di sini, Git sudah terdaftar di repository APT. Selanjutnya Anda dapat melakukan langkah yang ada [di sini](#1-paket-git-sudah-terdaftar-di-repository-apt)
 
+> Selamat, sekarang, Git sudah berhasil diinstal
