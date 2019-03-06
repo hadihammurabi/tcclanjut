@@ -20,6 +20,6 @@ Hal ini dapat dilakukan dengan menggunakan PPA. Berikut ini langkah-langkahnya.
 3. Jalankan perintah berikut `sudo apt install software-properties-common python-software-properties`
 4. Jalankan perintah berikut `sudo add-apt-repository ppa:git-core/ppa`
 5. Lakukan update dengan menjalankan perintah berikut `sudo apt update`
-6. Sampai di sini, Git sudah terdaftar di repository APT. Selanjutnya Anda dapat melakukan langkah yang ada [di sini](#1-paket-git-sudah-terdaftar-di-repository-apt)
+6. Sampai di sini, Git sudah terdaftar di repository APT. Selanjutnya Anda dapat melakukan langkah yang ada pada [kondisi pertama](#1-paket-git-sudah-terdaftar-di-repository-apt)
 
-> Selamat, sekarang, Git sudah berhasil diinstal
+### Selamat, sekarang, Git sudah berhasil diinstal
