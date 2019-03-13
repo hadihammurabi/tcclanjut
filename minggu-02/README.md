@@ -24,3 +24,9 @@ Hal ini dilakukan dengan langkah sebagai berikut.
 11. Setelah pull request berhasil dikirim, maka akan tampil halaman seperti di bawah ini.
 ![Pull request result](https://github.com/hadihammurabi/tcclanjut/raw/master/minggu-02/prresult.png)
 
+Langkah-langkah di atas sudah cukup untuk melakukan kontribusi ke sebuah proyek.
+Lalu, sekarang, saatnya menunggu Pull Request tadi diterima dan direspon oleh pemilik proyek tersebut.
+
+Dari sisi pemilik, berikut ini langkah-langkah untuk menerima dan memasukkan hasil perubahan dari sebuah Pull Request.
+
+
