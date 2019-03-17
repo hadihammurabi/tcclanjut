@@ -40,5 +40,5 @@ Dari sisi pemilik, berikut ini langkah-langkah untuk menerima dan memasukkan has
 ![Pull request merge confirm](https://github.com/hadihammurabi/tcclanjut/raw/master/minggu-02/prmergeconfirm.png)
 6. Akan tampil halaman seperti di bawah ini, yang menunjukkan bahwa pull request sudah berhasil di-merge.
 ![Pull request merge done](https://github.com/hadihammurabi/tcclanjut/raw/master/minggu-02/prdone.png)
-
+ 
 Pull request sudah berhasil diterima dan digabungkan dengan project utama.
