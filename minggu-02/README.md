@@ -29,4 +29,16 @@ Lalu, sekarang, saatnya menunggu Pull Request tadi diterima dan direspon oleh pe
 
 Dari sisi pemilik, berikut ini langkah-langkah untuk menerima dan memasukkan hasil perubahan dari sebuah Pull Request.
 
+1. Apabila ada pull request yang masuk, maka nilai pada tab pull request tidak lagi 0 (nol).
+![Pull request notification](https://github.com/hadihammurabi/tcclanjut/raw/master/minggu-02/prcoming.png)
+2. Kemudian klik tab pull request untuk melihat list pull request.
+![Pull request list](https://github.com/hadihammurabi/tcclanjut/raw/master/minggu-02/prlist.png)
+3. Klik salah satu pull request untuk dicek dan dilihat detailnya.
+![Pull request merge](https://github.com/hadihammurabi/tcclanjut/raw/master/minggu-02/prmerge.png)
+4. Klik merge pull request untuk menerima perubahan yang datang.
+5. Tambahkan catatan ketika menerima perubahan dari sebuah pull request, lalu klik `confirm merge`.
+![Pull request merge confirm](https://github.com/hadihammurabi/tcclanjut/raw/master/minggu-02/prmergeconfirm.png)
+6. Akan tampil halaman seperti di bawah ini, yang menunjukkan bahwa pull request sudah berhasil di-merge.
+![Pull request merge done](https://github.com/hadihammurabi/tcclanjut/raw/master/minggu-02/prdone.png)
 
+Pull request sudah berhasil diterima dan digabungkan dengan project utama.
